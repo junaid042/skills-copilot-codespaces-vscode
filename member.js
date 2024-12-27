@@ -1,4 +1,4 @@
-function skillsNumber() {
+function skillsMumber() {
     return {
         restrict: 'E',
         template: 'modules/skills/views/member.html',
